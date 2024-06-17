@@ -1,4 +1,4 @@
-module github.com/wlcmtunknwndth/proto_only_test.git
+module github.com/wlcmtunknwndth/proto_only_test
 
 go 1.22.0
 
