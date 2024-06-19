@@ -2,8 +2,6 @@ module github.com/wlcmtunknwndth/proto_only_test
 
 go 1.22.0
 
-replace github.com/wlcmtunknwndth/proto_only_test.git => github.com/wlcmtunknwndth/proto_only_test
-
 require (
 	google.golang.org/grpc v1.64.0
 	google.golang.org/protobuf v1.34.2
